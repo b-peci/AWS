@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/YSWK294gvKBKp3uJrLlhdnydrH57Z49r54TyNdGwLo=",
+  "Source": "AWS",
+  "BasePath": "_content/AWS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
